@@ -2,3 +2,6 @@
 ".DS_Store" 
 ".ipynb_checkpoints/" 
 "*.csv" 
+"*.xlsx" 
+
+!life_table.csv
